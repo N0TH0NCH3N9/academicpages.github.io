@@ -9,7 +9,7 @@ redirect_from:
 
 # Meet Your Sixth Grade Computer Teacher
 
-Hello, young tech enthusiasts! 👋
+Hello👋
 
 ![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
 
@@ -17,7 +17,7 @@ I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Davi
 
 ## About Mr. Daviddhc20120601
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+👩‍🏫 **Name:** Nathan
 
 🏫 **Grade:** Sixth Grade
 
