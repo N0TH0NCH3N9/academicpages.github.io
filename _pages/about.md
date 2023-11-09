@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+# I'm Nathan
 
 Hello👋
 
