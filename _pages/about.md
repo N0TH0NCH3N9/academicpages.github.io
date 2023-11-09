@@ -19,7 +19,7 @@ I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Davi
 
 👩‍🏫 **Name:** Nathan
 
-🏫 **Grade:** Sixth Grade
+🏫 **Grade:** primary six
 
 🖥️ **Subject:** Computer Science
 
