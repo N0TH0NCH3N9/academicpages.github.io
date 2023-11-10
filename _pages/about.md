@@ -25,7 +25,6 @@ I'm Nathan and I am a seasoned aviation enthusiast with an extensive knowledge o
 With a passion for all things aviation, Nathan not only delves into insightful discussions on navigation systems, flight instruments, and the rich history of flight but also possesses an in-depth understanding of flight controls and safety protocols.
 ## What to Expect
 
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
+Under Nathan's expertise, you'll delve into the expansive knowledge of aviation, gaining hands-on insights into aircraft, navigation systems, and the fascinating intricacies of aeronautics. With Nathan's guidance, you can explore the vast world of aviation, acquiring the skills to navigate the skies and developing an appreciation for this dynamic field.
 
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
-
+Nathan's expertise serves as the gateway to a world of endless possibilities in the realm of aviation. Whether you're interested in the technical aspects of aircraft, the intricacies of navigation, or the broader dynamics of aeronautics, Nathan provides a knowledgeable and engaging path to explore the multifaceted facets of aviation.
