@@ -11,7 +11,7 @@ redirect_from:
 
 Hello👋
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fmainlymiles.com%2Fwp-content%2Fuploads%2F2022%2F03%2FSQ-A380-Takeoff-Planes-Portrait-Aviation-Media-2000x1200.jpg%3Fcrop%3D1&tbnid=yWDykvee1fEYnM&vet=12ahUKEwiP4Im1s7mCAxUxcmwGHVEcD9UQMygjegUIARCgAQ..i&imgrefurl=https%3A%2F%2Fmainlymiles.com%2F2022%2F03%2F24%2Fsurprise-singapore-airlines-will-send-its-a380s-to-china-again-from-april%2F&docid=CPhRQr4zIcvHQM&w=2000&h=1200&q=(A380%20singapore%20airlines%20flying%20without%20gears%201080p)&hl=en&ved=2ahUKEwiP4Im1s7mCAxUxcmwGHVEcD9UQMygjegUIARCgAQ
 
 I'm Nathan and I am a seasoned aviation enthusiast with an extensive knowledge of aircraft and the intricacies of aviation.
 ## About Nathan
