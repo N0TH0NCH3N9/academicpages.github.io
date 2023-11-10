@@ -13,18 +13,16 @@ Hello👋
 
 ![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
-
+I'm Nathan and I am a seasoned aviation enthusiast with an extensive knowledge of aircraft and the intricacies of aviation.
 ## About Nathan
 
 👩‍🏫 **Name:** Nathan
 
 🏫 **Grade:** primary six
 
-🖥️ **Subject:** Computer Science
+🖥️ **Subject:** 
 
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
-
+With a passion for all things aviation, Nathan not only delves into insightful discussions on navigation systems, flight instruments, and the rich history of flight but also possesses an in-depth understanding of flight controls and safety protocols.
 ## What to Expect
 
 In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
